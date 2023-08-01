@@ -2,13 +2,13 @@ body{
     background-size: cover;
 }
 .heading{
-    width: 1500px;
+    width: 1200px;
     height: 115px;
     font-size: 50px;
     font-family: 'Handjet', cursive;
 }
 .note{
-    font-size: 25px;
+    font-size: 20px;
 }
 .song-name{
     font-family: 'Handjet', cursive;
