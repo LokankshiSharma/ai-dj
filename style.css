@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 1500px;
+    height: 115px;
+    font-size: 50px;
+    font-family: 'Handjet', cursive;
+}
+.note{
+    font-size: 25px;
+}
+.song-name{
+    font-family: 'Handjet', cursive;
+    width: 750px;
+    height: 35px;
+
+}
+canvas{
+    border-color: white;
+    background-color: black;
+}
